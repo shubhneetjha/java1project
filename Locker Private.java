@@ -127,8 +127,8 @@ public class Menu {
 		int option;
 		boolean b;
 		String rootDir, fileName;
-		System.out.println("||* Welcome to LockedMe.com *||\n");
-		System.out.println("Application Developer: Rahul Ojha\n");
+		System.out.println("||* Welcome to Locker private.com *||\n");
+		System.out.println("Application Developer: shubhneet jha\n");
 		do {
 			System.out.println("Choose Your Option");
 			System.out.println("Type 1 to Display the files name in the directory");
